@@ -1,1 +1,1 @@
-To install packages - pip install
+To install packages - pip install -r requirements.txt
